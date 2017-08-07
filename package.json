@@ -1,0 +1,14 @@
+{
+  "name": "@allenbrowntech/lemon-gradients",
+  "version": "1.0.0",
+  "description": "Beautiful CSS Gradients",
+  "license": "MIT",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allenbrowntech/lemon-gradients"
+  },
+  "dependencies": {
+    "coffee-script": "1.12.7"
+  }
+}
