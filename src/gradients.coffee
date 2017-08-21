@@ -16,6 +16,10 @@ gradients = [
     "css": "background-image: linear-gradient(-225deg, #e12828 0%, #e75555 100%);"
   }
   {
+    "name": "Github",
+    "css": "background-image: linear-gradient(-225deg, #24292e 0%, #3a434b 100%);"
+  }
+  {
     "name": "GooglePlus",
     "css": "background-image: linear-gradient(-225deg, #dc4e41 0%, #e4766c 100%);"
   }
