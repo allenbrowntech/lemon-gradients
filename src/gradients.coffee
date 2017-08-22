@@ -1,5 +1,9 @@
 gradients = [
   {
+    "name": "Apple",
+    "css": "background-image: linear-gradient(-225deg, #b3b3b3 0%, #999 100%);"
+  }
+  {
     "name": "Blogger",
     "css": "background-image: linear-gradient(-225deg, #ff8000 0%, #ff9933 100%);"
   }
@@ -36,6 +40,10 @@ gradients = [
     "css": "background-image: linear-gradient(-225deg, #d7772d 0%, #df9358 100%);"
   }
   {
+    "name": "Outlook",
+    "css": "background-image: linear-gradient(-225deg, #008ff9 0%, #0072c6 100%);"
+  }
+  {
     "name": "Pinterest",
     "css": "background-image: linear-gradient(-225deg, #cb2027 0%, #e03e44 100%);"
   }
@@ -66,6 +74,10 @@ gradients = [
   {
     "name": "Xing",
     "css": "background-image: linear-gradient(-225deg, #1a7576 0%, #239ea0 100%);"
+  }
+  {
+    "name": "Yahoo",
+    "css": "background-image: linear-gradient(-225deg, #720e9e 0%, #9412cd 100%);"
   }
   {
     "name": "Warm Flame",
