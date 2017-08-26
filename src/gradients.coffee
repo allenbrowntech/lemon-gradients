@@ -12,6 +12,10 @@ gradients = [
     "css": "background-image: linear-gradient(-225deg, #262626 0%, #404040 100%);"
   }
   {
+    "name": "Dailymotion",
+    "css": "background-image: linear-gradient(-225deg, #0066dc 0%, #107fff 100%);"
+  }
+  {
     "name": "Facebook",
     "css": "background-image: linear-gradient(-225deg, #3b5998 0%, #4c70ba 100%);"
   }
@@ -56,6 +60,10 @@ gradients = [
     "css": "background-image: linear-gradient(-225deg, #32506d 0%, #426a90 100%);"
   }
   {
+    "name": "Twitch",
+    "css": "background-image: linear-gradient(-225deg, #6441a5 0%, #7e5bbe 100%);"
+  }
+  {
     "name": "Twitter",
     "css": "background-image: linear-gradient(-225deg, #55acee 0%, #83c3f3 100%);"
   }
@@ -78,6 +86,10 @@ gradients = [
   {
     "name": "Yahoo",
     "css": "background-image: linear-gradient(-225deg, #720e9e 0%, #9412cd 100%);"
+  }
+  {
+    "name": "Youtube",
+    "css": "background-image: linear-gradient(-225deg, #cd201f 0%, #e23e3d 100%);"
   }
   {
     "name": "Warm Flame",
